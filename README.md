@@ -13,7 +13,7 @@
 
 <br/>
 
-[Acesso ao jogo](https://wevessonmadson.github.io/advinhar-numero-secreto/)
+[Acesso ao jogo](https://github.com/Debora-weslyane/jogo-numero-secreto.git)
 
 <br/><br/>
 <img src="./img/foto_readme.png">
